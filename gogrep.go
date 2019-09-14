@@ -32,7 +32,7 @@ func main() {
 	})
 }
 
-//PS C:\Golang_work\src\GoCourse\homework-5\gogrep> go run .\gogrep.go C:\Golang_work\src\GoCourse\homework-5 тест
+
 //C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\gofc\test.txt:2: тест
 //C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\homework-5.go:104: //тест
 //C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\test.txt:2: тест
