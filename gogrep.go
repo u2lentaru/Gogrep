@@ -31,5 +31,3 @@ func main() {
 		return nil
 	})
 }
-
-//C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\test.txt:2: тест
