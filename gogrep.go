@@ -32,5 +32,4 @@ func main() {
 	})
 }
 
-//C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\homework-5.go:104: //тест
 //C:\Golang_work\src\GoCourse\homework-5/C:\Golang_work\src\GoCourse\homework-5\test.txt:2: тест
