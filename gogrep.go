@@ -29,5 +29,5 @@ func main() {
 			}
 		}
 		return nil
-	})
+	} )
 }
